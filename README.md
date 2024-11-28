@@ -14,6 +14,7 @@ let Mukund = {
                                 &nbsp;"React" ,
                                 &nbsp;"HTML/CSS" ,
                                 &nbsp;"Node" ,
+                                &nbsp;"TypeScript" ,
                                 <br/>
 &emsp;&emsp; &emsp;&emsp; &emsp;&nbsp;&nbsp;"Tailwind CSS" ,
                                 &nbsp;"Express" ,
